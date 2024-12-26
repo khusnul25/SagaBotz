@@ -1,8 +1,8 @@
 ## Information
 
 <div align="center">
-<a href="https://github.com/nazedev/hitori/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/nazedev/hitori?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/nazedev/hitori/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nazedev/hitori?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/khusnul25/SagaBotz/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/khusnul25/SagaBotz?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/Khusnu25/SagaBotz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nazedev/hitori?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/nazedev/hitori/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/nazedev/hitori?label=Stars&color=yellow&style=flat-square"></a>
 <a href="https://github.com/nazedev/hitori/issues"><img title="Issues" src="https://img.shields.io/github/issues/nazedev/hitori?label=Issues&color=success&style=flat-square"></a>
 <a href="https://github.com/nazedev/hitori/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/nazedev/hitori?label=Issues&color=red&style=flat-square"></a>
@@ -41,8 +41,8 @@ This script is created by [Nazedev](https://github.com/nazedev) using Node.js an
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/nazedev/hitori
-cd hitori
+git clone https://github.com/khusnul25/SagaBotz
+cd SagaBotz
 npm install
 npm update
 ```
@@ -54,8 +54,8 @@ pkg install git
 pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
-git clone https://github.com/nazedev/hitori
-cd hitori
+git clone https://github.com/khusnul25/SagaBotz
+cd SagaBotz
 npm install
 ```
 
